@@ -46,30 +46,39 @@ Python-Based-Calculator/
 
 ## Addition Operation
 
-<img width="716" height="271" alt="image" src="https://github.com/user-attachments/assets/2c625274-0c7e-4eb9-b35d-531f5cf656b8" />
+<img width="798" height="275" alt="image" src="https://github.com/user-attachments/assets/fb4694f1-f161-4879-b273-ed889ae8eba0" />
 
 
 ---
 
 ## Subtraction Operation
 
-<img width="553" height="208" alt="image" src="https://github.com/user-attachments/assets/9a34f3ba-c859-46ea-991e-03b72a78beae" />
+<img width="637" height="215" alt="image" src="https://github.com/user-attachments/assets/68808743-cebe-47c5-9e0b-6cb2abbc9d7d" />
 
 ---
 
 ## Multiplication Operation
 
-<img width="464" height="220" alt="image" src="https://github.com/user-attachments/assets/88c9c3ba-71e6-4434-9d2e-069cb8006d45" />
+<img width="557" height="215" alt="image" src="https://github.com/user-attachments/assets/57bb5b17-0d92-48be-b618-f9c5704d02ca" />
 
 
 ---
 
 ## Division Operation
 
-<img width="514" height="212" alt="image" src="https://github.com/user-attachments/assets/54aaab74-8300-442c-ba85-5191ef0eaef9" />
+<img width="550" height="239" alt="image" src="https://github.com/user-attachments/assets/1975fd45-1f1b-424b-81d7-1d30f9273dd2" />
 
 
 ---
+
+
+## Exit Calculator
+
+<img width="701" height="279" alt="image" src="https://github.com/user-attachments/assets/68ed82b3-ee51-48f1-9ac9-90a574b3a402" />
+
+
+---
+
 
 # Steps to Run the Program
 
