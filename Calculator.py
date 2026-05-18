@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Python -Based Calculator
 def add(a, b):
     return a + b
@@ -58,11 +52,3 @@ while True:
     else:
 
        print("Invalid choice! Please select between 1 and 5.")
-
-
-
-# In[ ]:
-
-
-
-
