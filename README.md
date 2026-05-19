@@ -36,9 +36,9 @@ The goal is to demonstrate fundamental programming concepts including conditiona
 ```text
 Python-Based-Calculator/
 │
-├── calculator.py
-└── README.md
-|__screenshots
+├── Calculator.py
+├── README.md
+└── screenshots/
 ```
 
 ---
