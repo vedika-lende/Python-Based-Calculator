@@ -38,6 +38,7 @@ Python-Based-Calculator/
 │
 ├── calculator.py
 └── README.md
+|__screenshots
 ```
 
 ---
